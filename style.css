@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 :root {
     --border: 1px solid #ffffff;
 }
@@ -104,7 +105,7 @@ table thead {
 }
 
 thead th,
-thead td {
+tbody td {
     padding: 12px 16px;
 }
 
